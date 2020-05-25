@@ -63,16 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\BarrelLid.cs" />
-    <Compile Include="Assets\Scripts\BillboardMoon.cs" />
-    <Compile Include="Assets\Scripts\DropletImpactAudio.cs" />
-    <Compile Include="Assets\Scripts\FadeInAudio.cs" />
-    <Compile Include="Assets\Scripts\Fire.cs" />
-    <Compile Include="Assets\Scripts\FireAudio.cs" />
-    <Compile Include="Assets\Scripts\ParticleHelper.cs" />
-    <Compile Include="Assets\Scripts\ReticleMovement.cs" />
-    <Compile Include="Assets\Scripts\Sprinkler.cs" />
-    <Compile Include="Assets\Scripts\SprinklerAudio.cs" />
+    <Compile Include="Assets\_Scripts\Fire.cs" />
+    <Compile Include="Assets\_Scripts\ParticleHelper.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>G:/Git/PersonalProject/MyParticle/MyParticle/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
